@@ -1,4 +1,4 @@
-#Encryption Sample
+#Encryption Example
 
 This small project is to show basic implementation of encryption|decryption using AES.
 
